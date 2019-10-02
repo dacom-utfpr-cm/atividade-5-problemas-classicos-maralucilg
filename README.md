@@ -1,6 +1,6 @@
 # Atividade 5 - Problemas Clássicos de Programação Concorrente
 
-1. Implemente e teste duas soluções para o problema dos leitores-escritores usando semárofos ou monitores que:
+1. Implemente e teste duas soluções para o problema dos Leitores-Escritores usando semárofos ou monitores que:
    * não cause inanição (*starvation*) de leitores ou escritores.
    * priorize os escritores.
   
